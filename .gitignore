@@ -1,0 +1,8 @@
+*.pyc
+invariant.txt
+invariant_hole.txt
+*.mtx
+doc/build
+*.npy
+Huge_matrix*
+.ipynb_checkpoints
